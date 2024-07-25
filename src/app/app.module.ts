@@ -25,7 +25,7 @@ import { ProjectCardComponent } from './project-card/project-card.component';
 
   ],
   imports: [
-    BrowserModule,
+    // BrowserModule,
     AppRoutingModule,
     ModalModule.forRoot()
   ],
