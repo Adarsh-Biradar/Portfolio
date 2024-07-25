@@ -1,0 +1,10 @@
+.tag{
+    padding: 20px;
+    height: 30px;
+    width: fit-content;
+    font-size: 14px;
+    line-height: 0px;
+    border-radius: 25px;
+    background: blue;
+    color: white;
+}
